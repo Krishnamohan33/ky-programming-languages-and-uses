@@ -133,8 +133,6 @@ Enjoy exploring the world of programming languages and their diverse application
 
 ## Badges
 
-Add badges to monitor and track various metrics for your project:
-
 - **Build Status**: ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 - **Code Coverage**: ![Code Coverage](https://img.shields.io/badge/Coverage-90%25-brightgreen)
 - **Version**: ![Version](https://img.shields.io/badge/Version-1.0-blue)
