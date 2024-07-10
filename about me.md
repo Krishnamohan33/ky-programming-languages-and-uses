@@ -15,7 +15,7 @@ Hello! I'm Krishnamohan Yagneswaran, a passionate game developer, web developer,
 
 ## This Repository
 
-In this repository, I share resources, scripts, and projects related to game development, web development, and technical writing. Whether you're looking for custom Unity scripts, React.js templates, or insights into technical writing best practices, you’ll find valuable content here.
+In this repository, I share resources, scripts, and projects related to programming languages, you’ll find valuable content here.
 
 Feel free to explore, contribute, and reach out with any questions or collaborations. Let's create and learn together!
 
