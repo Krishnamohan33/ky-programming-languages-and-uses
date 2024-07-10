@@ -43,4 +43,3 @@ If you have any questions or need further assistance, feel free to reach out by 
 
 Thank you for contributing to Programming Languages and Uses. Together, we can create a valuable resource for developers worldwide.
 
-This `CONTRIBUTING.md` file provides clear instructions and guidelines for potential contributors,ensuring a smooth and collaborative contribution process to your Programming Languages and Uses repository. Adjust and expand the content based on your project's specific needs and community expectations.
