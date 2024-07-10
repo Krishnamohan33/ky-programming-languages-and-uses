@@ -8,19 +8,19 @@ Our vision is to establish a welcoming community where developers of all skill l
 
 ## Goals
 
-### Short-term Goals (Next 3-6 Months)
+### Short-term Goals 
 
 - **Expand Content**: Curate and add comprehensive resources for popular programming languages like Python, JavaScript, Java, C#, Swift, and Rust.
 - **Enhance Documentation**: Improve clarity and completeness of documentation, making it more accessible and useful for learners.
 - **Community Engagement**: Increase engagement through discussions, feedback, and contributions from community members.
 
-### Medium-term Goals (6-12 Months)
+### Medium-term Goals 
 
 - **Diversify Content**: Include tutorials, case studies, and real-world examples demonstrating the use of programming languages in different industries.
 - **Grow Community**: Expand our community outreach efforts through social media, newsletters, and participation in relevant developer forums and events.
 - **Collaborative Projects**: Initiate collaborative projects where community members can work together on open-source initiatives or learning challenges.
 
-### Long-term Goals (1 Year and Beyond)
+### Long-term Goals
 
 - **Become a Leading Resource**: Establish ourselves as a go-to resource for comprehensive and up-to-date information on programming languages and their applications.
 - **Certification or Badging**: Explore options for offering certifications or badges for contributors who have made significant contributions to the repository and community.
