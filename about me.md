@@ -11,7 +11,7 @@ Hello! I'm Krishnamohan Yagneswaran, a passionate game developer, web developer,
 
 - **Game Development**: I love crafting games that challenge and engage players, focusing on innovative mechanics and storytelling.
 - **Web Development**: I enjoy building responsive and scalable web applications, leveraging frameworks like React.js and Node.js.
-- **Technical Writing**: As a technical writer, I contribute to platforms like Document360, creating clear and concise documentation and tutorials for developers.
+- **Technical Writing , Short Stories , Blogs etc**
 
 ## This Repository
 
