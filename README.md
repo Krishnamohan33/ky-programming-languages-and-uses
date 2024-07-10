@@ -130,3 +130,12 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 ---
 
 Enjoy exploring the world of programming languages and their diverse applications! If you have any questions or suggestions, please open an issue or reach out to us.
+
+## Badges
+
+Add badges to monitor and track various metrics for your project:
+
+- **Build Status**: ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+- **Code Coverage**: ![Code Coverage](https://img.shields.io/badge/Coverage-90%25-brightgreen)
+- **Version**: ![Version](https://img.shields.io/badge/Version-1.0-blue)
+- **License**: ![License](https://img.shields.io/badge/License-MIT-blue)
