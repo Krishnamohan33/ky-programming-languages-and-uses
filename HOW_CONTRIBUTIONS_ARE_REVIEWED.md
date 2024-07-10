@@ -34,4 +34,4 @@ Your contributions are invaluable to us. By working together, we can build a val
 
 ---
 
-This `HOW_CONTRIBUTIONS_ARE_REVIEWED.md` file outlines our review process and expectations for contributors. We look forward to collaborating with you!
+
