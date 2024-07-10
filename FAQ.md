@@ -30,7 +30,7 @@ Yes, this repository is licensed under the [MIT License](LICENSE). You are free 
 
 ## How can I get updates about this repository?
 
-You can watch this repository on GitHub to receive notifications about new contributions, issues, and discussions. Additionally, follow us on [mention your social media handles, e.g., Twitter, LinkedIn] for updates.
+You can watch this repository on GitHub to receive notifications about new contributions, issues, and discussions. Additionally, follow us on https://www.linkedin.com/in/krishnamohan-yagneswaran-546b4323a/ for updates.
 
 ## Where can I find more resources about programming languages?
 
