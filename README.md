@@ -128,7 +128,7 @@ We welcome contributions to expand and improve this repository! If you have valu
 
 If you find this repository helpful, consider supporting its maintenance and development by making a donation. Your contribution helps us continue providing valuable resources to the community.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.gadgetinsiderz.com/donation)
+[![Donate](https://img.shields.io/badge/Donate)](https://www.gadgetinsiderz.com/donation)
 
 ## License
 
