@@ -113,13 +113,6 @@ Rust is a systems programming language designed for safety, concurrency, and per
 - [Rust Official Website](languages/rust.md) - The official Rust programming language website.
 - [Rust Documentation](https://doc.rust-lang.org/) - Official documentation for Rust.
 
-#### Applications
-
-- **Systems Programming:**
-  - [Tokio](https://tokio.rs/) - A runtime for writing reliable asynchronous applications with Rust.
-- **Web Assembly:**
-  - [wasm-pack](https://rustwasm.github.io/docs/wasm-pack/) - A tool for building and working with WebAssembly in Rust.
-
 ## Contributing
 
 We welcome contributions to expand and improve this repository! If you have valuable links or resources related to programming languages and their applications, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to contribute.
