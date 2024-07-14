@@ -2,6 +2,10 @@
 
 Welcome to the Programming Languages and Uses repository! This repository aims to collect and curate useful links and resources about various programming languages and their applications across different domains. Whether you're a beginner exploring different languages or an experienced developer looking for specific use cases, you'll find valuable information here.
 
+Credits
+
+This project was created by Krishnamohan Yagneswaran.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
