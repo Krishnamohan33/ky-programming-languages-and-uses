@@ -32,7 +32,7 @@ Python is known for its simplicity and readability, making it a popular choice f
 
 #### General Information
 
-- [Python Official Website](languages/python.md) - The official Python programming language website.
+- [Python Official Website](https://www.python.org/) - The official Python programming language website.
 - [Python Documentation](https://docs.python.org/) - Official documentation for Python.
 
 #### Applications
