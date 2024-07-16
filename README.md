@@ -125,7 +125,7 @@ If you find this repository helpful, consider supporting its maintenance and dev
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for personal or commercial purposes.
+This repository is licensed under the MIT License. Feel free to use, modify, and distribute the content for personal or commercial purposes. However, please ensure to provide appropriate credit to the original authors when using or modifying the content.
 
 ---
 
