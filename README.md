@@ -38,9 +38,9 @@ Python is known for its simplicity and readability, making it a popular choice f
 #### Applications
 
 - **Web Development:**
-  - [Django](languages/python.md#django) - A high-level Python web framework.
+  - [Django](https://www.djangoproject.com/) - A high-level Python web framework.
 - **Data Science:**
-  - [NumPy](languages/python.md#numpy) - A fundamental package for scientific computing with Python.
+  - [NumPy]() - A fundamental package for scientific computing with Python.
 - **Machine Learning:**
   - [TensorFlow](https://www.tensorflow.org/) - An open-source machine learning framework for Python.
 
@@ -50,7 +50,7 @@ JavaScript is the language of the web, enabling interactive web pages and dynami
 
 #### General Information
 
-- [JavaScript Official Website](languages/javascript.md) - The official JavaScript programming language website.
+- [JavaScript Official Website](https://www.javascript.com/) - The official JavaScript programming language website.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla's documentation for JavaScript.
 
 #### Applications
