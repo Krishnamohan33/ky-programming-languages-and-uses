@@ -62,7 +62,7 @@ Java is renowned for its portability and scalability, powering enterprise-level 
 
 #### General Information
 
-- [Java Official Website](languages/java.md) - The official Java programming language website.
+- [Java Official Website](https://www.java.com/en/) - The official Java programming language website.
 - [Java Documentation](https://docs.oracle.com/en/java/) - Official documentation for Java.
 
 #### Applications
@@ -78,7 +78,7 @@ C# is a versatile language developed by Microsoft, widely used for developing Wi
 
 #### General Information
 
-- [C# Official Website](languages/csharp.md) - The official C# programming language website.
+- [C# Official Website](https://learn.microsoft.com/en-us/dotnet/csharp/) - The official C# programming language website.
 - [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/) - Official documentation for C#.
 
 #### Applications
@@ -94,7 +94,7 @@ Swift is Apple's powerful and intuitive programming language for macOS, iOS, wat
 
 #### General Information
 
-- [Swift Official Website](languages/swift.md) - The official Swift programming language website.
+- [Swift Official Website](https://developer.apple.com/swift/) - The official Swift programming language website.
 - [Swift Documentation](https://developer.apple.com/documentation/swift) - Official documentation for Swift.
 
 #### Applications
@@ -110,7 +110,7 @@ Rust is a systems programming language designed for safety, concurrency, and per
 
 #### General Information
 
-- [Rust Official Website](languages/rust.md) - The official Rust programming language website.
+- [Rust Official Website](https://www.rust-lang.org/) - The official Rust programming language website.
 - [Rust Documentation](https://doc.rust-lang.org/) - Official documentation for Rust.
 
 ## Contributing
